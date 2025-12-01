@@ -256,6 +256,6 @@ Frameworks como **Next.js** oferecem hoje a melhor combinação entre performanc
 
 Se você quer criar **landing pages rápidas, otimizadas para ranquear no Google e com alta taxa de conversão**, contar com uma estrutura bem construída faz toda a diferença. É exatamente isso que oferecemos na **Prumo Performance**: desenvolvimento profissional de páginas que unem design, alta performance e SEO técnico de ponta.
 
-Conheça nossas soluções de landing pages:  [https://prumoperformance.com/landingpages](https://prumoperformance.com/landingpages)
+Conheça nossas soluções de landing pages da [Prumo](https://prumoperformance.com/landingpages)
 
 > **Se você quer lançar um projeto moderno, eficiente e realmente competitivo, a Prumo Performance pode construir a landing page ideal para melhorar seu posicionamento e maximizar resultados.**
